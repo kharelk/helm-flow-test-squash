@@ -1,0 +1,31 @@
+commit 7e69137305de13457d896b16fba838ac9cb21645
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Sun Jul 10 14:48:06 2022 +0300
+
+    Squashed commit of the following:
+    
+    commit 89228fa665049ec36072ab545400fd92b8ef670d
+    Author: harelkaravani <harel.karavani@checkmarx.com>
+    Date:   Sun Jul 10 14:42:04 2022 +0300
+    
+        2.txt third change
+    
+    commit 58946dae4dc3c8ae73e86dbb1c8edbd749b3426e
+    Author: harelkaravani <harel.karavani@checkmarx.com>
+    Date:   Sun Jul 10 14:41:39 2022 +0300
+    
+    commit 3542ba97bf17b8d202ab6fdbbb3926be70627a24
+    Author: harelkaravani <harel.karavani@checkmarx.com>
+    Date:   Sun Jul 10 14:41:16 2022 +0300
+
+commit 5306783c5750e71aac39e3f1376d99b09ed1ddbc
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Sun Jul 10 14:26:52 2022 +0300
+
+    first commit
+
+commit affc9eb5c2577b4556c04566f641ec029bf54b4e
+Author: kharelk <36647423+kharelk@users.noreply.github.com>
+Date:   Sun Jul 10 13:53:58 2022 +0300
+
+    Initial commit
