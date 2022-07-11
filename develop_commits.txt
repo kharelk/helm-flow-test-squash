@@ -1,6 +1,36 @@
-commit 7e69137305de13457d896b16fba838ac9cb21645
+commit 96fb49f6b69191a62bbccecc704c20f27ee7e7a0
 Author: harelkaravani <harel.karavani@checkmarx.com>
-Date:   Sun Jul 10 14:48:06 2022 +0300
+Date:   Sun Jul 10 16:09:51 2022 +0300
+
+    5.txt
+
+commit e35686e94ab7f939b9c65a639972eb3211aa5a17
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Sun Jul 10 15:48:47 2022 +0300
+
+    commit 2
+
+commit 44b0e904d8be87925d5d3a7eb5a0c328493dd74c
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Sun Jul 10 15:48:27 2022 +0300
+
+    commit 1
+
+commit c4ffb8fbbf948ace549ade55dc93d6d98ef5fc4d
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Sun Jul 10 15:21:24 2022 +0300
+
+    push 1 commit 2 branches
+
+commit 65687dc6978423d378d08c80d2c3d4beff0a28a9
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Sun Jul 10 15:09:08 2022 +0300
+
+    one commit for 2 branches
+
+commit d28a6817c4e9493329db83911acb21f5241bf101
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Sun Jul 10 14:44:04 2022 +0300
 
     Squashed commit of the following:
     
