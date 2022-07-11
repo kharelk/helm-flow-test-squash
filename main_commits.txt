@@ -1,3 +1,33 @@
+commit 2f262642d12231e646850ae3011348e8a3b4be76
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 10:24:09 2022 +0300
+
+    branch list
+
+commit 51b8891d149a4b30ca9e135c771f943a6c422eb6
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 08:21:35 2022 +0300
+
+    test1 init commit
+
+commit 00553d1e4745de308bb9cf364f4aced07a4ba95a
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 08:12:32 2022 +0300
+
+    fix4 init commit
+
+commit 59a4d01a8427e069e9bc4cfd053bb7902343a3c5
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 08:05:16 2022 +0300
+
+    fix4 init commit
+
+commit 1d8a9bc2824378b151d656afb44ad31b7cc28270
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 07:43:59 2022 +0300
+
+    commit squash and merge
+
 commit 96fb49f6b69191a62bbccecc704c20f27ee7e7a0
 Author: harelkaravani <harel.karavani@checkmarx.com>
 Date:   Sun Jul 10 16:09:51 2022 +0300
