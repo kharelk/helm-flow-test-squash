@@ -1,3 +1,25 @@
+commit a5b1c3d7a8bfa2a0e1682d93834993449db118db
+Merge: 9ffe0a6 cd59d6d
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 10:55:24 2022 +0300
+
+    Merge branch 'fix-001'
+
+commit cd59d6d69d7a7f5598e94a41d46462cf81c88975
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 10:50:27 2022 +0300
+
+    changed commit log files
+
+commit 9ffe0a6949d7ea01cc3344f890699efc1c1281cc
+Merge: 2f26264 c65d393
+Author: kharelk <36647423+kharelk@users.noreply.github.com>
+Date:   Mon Jul 11 10:47:53 2022 +0300
+
+    Merge pull request #2 from kharelk/develop
+    
+    Develop
+
 commit c65d393d1305ae3e768016f7eea753f60ee867ba
 Merge: 2f26264 b2f440b
 Author: kharelk <36647423+kharelk@users.noreply.github.com>
