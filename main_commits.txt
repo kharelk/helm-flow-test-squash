@@ -1,10 +1,14 @@
-change 1 !
+commit 556a3ac26cf184bba4819947506a5e3968ffb903
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 14:17:45 2022 +0300
 
+    changed commit log files #7
 
+commit dd3b2c648ac0a7102a850f10872cf9580e35f92f
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Mon Jul 11 14:12:45 2022 +0300
 
-
-
-
+    changed commit log files #7
 
 commit 8d03c21a4b3ec1d7d5e3dcd07ec9f1878aac387a
 Author: harelkaravani <harel.karavani@checkmarx.com>
