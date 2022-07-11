@@ -1,0 +1,20 @@
+  dev
+  develop
+  fix1
+  fix2
+  fix3
+  fix4
+* main
+  new
+  one
+  release-candidate
+  test
+  test1
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/dev
+  remotes/origin/develop
+  remotes/origin/fix3
+  remotes/origin/fix4
+  remotes/origin/main
+  remotes/origin/new
+  remotes/origin/test1
